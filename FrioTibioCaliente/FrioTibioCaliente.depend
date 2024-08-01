@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722465989 source:c:\jset\estudio\universidad\semestre i\programación imperativa\laboratorio 2\juegoadivinandonumero\friotibiocaliente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
